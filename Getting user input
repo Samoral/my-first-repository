@@ -1,0 +1,3 @@
+function x = (prompt ("your name")) {
+document.write(x)
+}
